@@ -1,0 +1,5 @@
+date,ingredient,quantity,unit,unitPrice,currency,supplier,invoiceId
+2026-09-21,Butter,40,kg,10.5,USD,Meadow Dairy (sample),SYN-1041
+2026-09-28,Butter,40,kg,10.5,USD,Meadow Dairy (sample),SYN-1048
+2026-09-28,Flour,100,kg,1,USD,Millstone Foods (sample),SYN-2048
+2026-09-29,Milk,48,L,1.5,USD,Meadow Dairy (sample),SYN-1049
